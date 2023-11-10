@@ -1,0 +1,5 @@
+package com.EmployeeManagementSystem.repository;
+
+public interface Employee {
+
+}
